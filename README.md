@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/R2jYFhc/442757cb859d28f896389b76fff1d758.gif" alt="YuzzuKamiyaka" width="300" />
 
-# YUZZU KAMIYAKA
+# DAHLAH
 
 >
 >
@@ -17,9 +17,17 @@
 
 ## CARA INSTALL DI TERMUX
 ```bash
+> pkg install nodejs && pkg install git
 > git clone https://github.com/YuzzuKamiyaka/bitch-bot
 > cd bitch-bot
 > bash install.sh
+> npm start/node main.js
+```
+## CARA INSTALL DI LAPTOP
+```bash
+> git clone https://github.com/YuzzuKamiyaka/bitch-bot
+> cd bitch-bot
+> npm i
 > npm start/node index.js
 ```
 
