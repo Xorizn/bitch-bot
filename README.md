@@ -18,7 +18,7 @@
 > git clone https://github.com/YuzzuKamiyaka/bitch-bot
 > cd bitch-bot
 > bash install.sh
-> npm start/node main.js
+> npm start/node index.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
