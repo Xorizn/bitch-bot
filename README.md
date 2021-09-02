@@ -37,6 +37,6 @@
   # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
+* [`DcodeDenpa`](https://github.com/dcode-denpa)
   
   
