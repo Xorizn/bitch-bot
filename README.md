@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/YuzzuKamiyaka/image/blob/main/107.jpg" alt="YuzzuKamiyaka" width="300" />
+<img src="https://github.com/YuzzuKamiyaka/image/blob/main/20210903_185931.jpg" alt="YuzzuKamiyaka" width="300" />
 
 # YUZZU KAMIYAKA
 
