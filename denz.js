@@ -2000,6 +2000,7 @@ if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}n
      		break
 //Done
 case 'jadibot':
+if(from.endsWith('@g.us')) return reply('Only With Private Chat/PC')
 client.version = [2, 2119, 6]
 client.browserDescription = ['Dcode Denpa','Desktop','3.0']
 if (args[0] && args[0].length > 200) {
