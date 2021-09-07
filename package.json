@@ -25,6 +25,7 @@
     "awesome-phonenumber": "^2.54.0",
     "axios": "^0.21.1",
     "marked": "^3.0.2",
+    "hxz-api": "^1.0.1",
     "marker": "^0.1.2",
     "base64-img": "^1.0.4",
     "base64-to-image": "^1.0.2",
