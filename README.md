@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/76629978?v=4" alt="Dcode-Denpa " width="300" />
+<img src="https://avatars.githubusercontent.com/u/86514883?v=4" alt="Yuzzu" width="300" />
 
-# DCODE DENPA
+# YUZZU KAMIYAKA
 
 >
 >
@@ -17,6 +17,7 @@
 > pkg install nodejs && pkg install git
 > git clone https://github.com/dcode-denpa/bitch-boot
 > cd bitch-bot
+> npm install terminal-kit
 > bash install.sh
 > npm start/node index.js
 ```
@@ -24,6 +25,7 @@
 ```bash
 > git clone https://github.com/dcode-denpa/bitch-boot
 > cd bitch-bot
+> npm install terminal-kit
 > npm i
 > npm start/node index.js
 ```
@@ -37,6 +39,6 @@
   # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`YuzzuKamiyaka`](https://github.com/YuzzuKamiyaka)
+* [`Dcode-denpa`](https://github.com/dcode-denpa)
   
   
