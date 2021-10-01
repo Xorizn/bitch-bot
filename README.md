@@ -15,7 +15,7 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/dcode-denpa/bitch-boot
+> git clone https://github.com/YuzzuKamiyaka/bitch-bot
 > cd bitch-bot
 > npm install terminal-kit
 > bash install.sh
@@ -23,7 +23,7 @@
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/dcode-denpa/bitch-boot
+> git clone https://github.com/YuzzuKamiyaka/bitch-bot
 > cd bitch-bot
 > npm install terminal-kit
 > npm i
